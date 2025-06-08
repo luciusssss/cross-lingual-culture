@@ -2,6 +2,8 @@
 
 Official code repository for the ACL'25 paper "Cross-Lingual Transfer of Cultural Knowledge: An Asymmetric Phenomenon".
 
+Preprint: https://arxiv.org/abs/2506.01675
+
 ## Data
 We provide the cultural probing questions used in our experiments, consisting of English/non-English cultural questions about the four non-Anglophonic communities (Koreans `ko` in South Korea, Han Chinese `zh`, Tibetans `bo`, and Mongols `mn` in China).
 
